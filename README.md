@@ -31,6 +31,9 @@ The analysis included:
 
 These visualisations helped identify the features that were most useful for predicting house prices.
 
+## Business Insight
+The analysis showed that property quality, living area and neighbourhood were the strongest drivers of house prices. These insights could help a real estate company prioritise property valuation, pricing strategy and investment decisions.
+
 ## Machine Learning
 
 A Linear Regression model was trained using the following features:
@@ -53,6 +56,7 @@ The dataset was split into training and testing sets before fitting the model.
 | R² Score | 0.784 |
 
 The model explained approximately **78% of the variation** in house prices, showing that the selected features were strong predictors of property value.
+
 
 ## Key Takeaways
 
